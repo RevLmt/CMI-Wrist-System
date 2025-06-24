@@ -1,0 +1,14 @@
+name: cmi-wrist
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pytorch
+  - torchvision
+  - scikit-learn
+  - pandas
+  - matplotlib
+  - plotly
+  - kaggle
+  - jupyter
